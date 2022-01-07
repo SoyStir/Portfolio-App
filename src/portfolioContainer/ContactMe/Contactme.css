@@ -17,6 +17,13 @@
     width: 400px;
     color: #fff;
 }
+.tel{
+    text-decoration: none;
+    color: #fff;
+    font-size: 19px;
+    position: relative;
+    top: 20px;
+}
 form{
     display: grid;
     gap: 1;

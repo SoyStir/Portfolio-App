@@ -62,7 +62,7 @@ export default function Contactme() {
                                 <button className='form-btn' type='submit' value='Send' disabled={state.submitting}>Enviar</button>
                             </div>
                             </form>
-                            
+                            <a className='tel' href="tel:+1 8093935365">📲Llamar</a>                                                       
                         </div>
                     </div>
             </div>
