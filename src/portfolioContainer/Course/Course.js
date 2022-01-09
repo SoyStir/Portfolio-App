@@ -17,6 +17,7 @@ export default function Course() {
                         <div><h3>BOOTSTRAP</h3></div>
                         <div><h3>GIT</h3></div>
                         <div><h3>LINUX</h3></div>
+                        <div><h3>Node.js</h3></div>
                     </div>
             </div>
         </div>

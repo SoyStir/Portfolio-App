@@ -17,7 +17,7 @@ export default function AboutMe() {
                         </div>
                         <div className='aboutme-parent-mural'>
                             <div className='aboutme-p'>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus libero, est natus sint reprehenderit atque odio. Eaque, possimus ad? Earum ipsa asperiores dolorem! Rerum harum dicta repellendus! Error, architecto omnis?</p>
+                                <p>Mi vida como desarrollador empezó cuando tuve interés por las computo,  inicie a estudiar desarrollo web me intereso más y  estudie mas tecnología para mis proyecto para hacerlo más profesional.</p>
                             </div>
                             <div className='aboutme-container-text'>
                                 <div className='aboutme-text'>
@@ -30,15 +30,6 @@ export default function AboutMe() {
                                     </div>
                                     <div>
                                         <span><i class="fa fa-circle"></i>react and react native.</span>
-                                    </div>
-                                    <div>
-                                        <span><i class="fa fa-circle"></i>Redux for State Mnanagement.</span>
-                                    </div>
-                                    <div>
-                                        <span><i class="fa fa-circle"></i>Bulilding REST API.</span>
-                                    </div>
-                                    <div>
-                                        <span><i class="fa fa-circle"></i>Managing database.</span>
                                     </div>
                                 </div>
                             </div>
