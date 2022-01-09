@@ -7,7 +7,7 @@ export default function Contactme() {
 
     const [state, handleSubmit] = useForm("xlezevev");
     if (state.succeeded) {
-        return 
+        return alert('mensaje enviado')
     }
 
     return (
@@ -27,7 +27,7 @@ export default function Contactme() {
                                 <Typical
                                 loop={Infinity}
                                 steps={[
-                                    'Ponerse en contacto ✉',
+                                    'Ponerse en contacto📧',
                                     1000,
                                 ]}
                                 />
