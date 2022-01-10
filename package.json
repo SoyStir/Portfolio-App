@@ -2,7 +2,7 @@
   "name": "my-app1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SoyStir.github.io/Portfolio-App",
+  "homepage": "http://soystir.github.io/portfolio-app",
   "dependencies": {
     "@formspree/react": "^2.2.4",
     "@testing-library/jest-dom": "^5.15.0",
