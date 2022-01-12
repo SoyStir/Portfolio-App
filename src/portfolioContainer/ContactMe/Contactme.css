@@ -68,8 +68,7 @@ form{
     width: 490px;
     display: grid;
     gap: 1;
-    position: relative;
-    
+    position: relative;    
     top: 90px;
 }
 .contactme-picture-background img{
