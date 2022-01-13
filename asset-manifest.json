@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-App/static/css/main.c60487bb.chunk.css",
+    "main.css": "/Portfolio-App/static/css/main.e95e814b.chunk.css",
     "main.js": "/Portfolio-App/static/js/main.a5265d1c.chunk.js",
     "main.js.map": "/Portfolio-App/static/js/main.a5265d1c.chunk.js.map",
     "runtime-main.js": "/Portfolio-App/static/js/runtime-main.c24c470c.js",
@@ -10,7 +10,7 @@
     "static/js/3.c8f4a99a.chunk.js": "/Portfolio-App/static/js/3.c8f4a99a.chunk.js",
     "static/js/3.c8f4a99a.chunk.js.map": "/Portfolio-App/static/js/3.c8f4a99a.chunk.js.map",
     "index.html": "/Portfolio-App/index.html",
-    "static/css/main.c60487bb.chunk.css.map": "/Portfolio-App/static/css/main.c60487bb.chunk.css.map",
+    "static/css/main.e95e814b.chunk.css.map": "/Portfolio-App/static/css/main.e95e814b.chunk.css.map",
     "static/js/2.72f52536.chunk.js.LICENSE.txt": "/Portfolio-App/static/js/2.72f52536.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio-App/static/media/Poppins-Thin.a61eaf4c.ttf",
     "static/media/red.jpg": "/Portfolio-App/static/media/red.7ba1232a.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.c24c470c.js",
     "static/js/2.72f52536.chunk.js",
-    "static/css/main.c60487bb.chunk.css",
+    "static/css/main.e95e814b.chunk.css",
     "static/js/main.a5265d1c.chunk.js"
   ]
 }
