@@ -127,12 +127,28 @@ textarea::placeholder{
 
 }
 @media screen and (max-width: 375px){
+    .text{
+        
+        padding: 1px;
+        margin: 1px;
+        font-size: 10px;
+        width: 00px;
+    }
     .container-mensaje{    
         width: 300px;
     }
     .forn-container{
         position: relative;
-        right: 15px;
+        right: 20px;
+    }
+    .text span{
+        margin: 0px;
+        padding: 0px;
+        width: 290px;
+    }
+    .forn-container{
+        position: relative;
+        right: 17px;
     }
 }
 @media screen and (max-width: 280px) {

@@ -114,16 +114,20 @@ hr{
     }
 }
 @media screen and (max-width: 375px){
+    .aboutme-parent{
+        background-color: brown;
+        width: 0px;
+    }
     .aboutme-details{
         position: relative;
-        left: 20px;
+        right:200px;
     }
     .aboutme-parent-primer{
         width: 250px;
     }
     .aboutme-picture{
-        height: 733px;
-        width: 100px;
+        height: 00px;
+        width: 00px;
         display: flex;
     }
     .aboutme-parent-primer{
